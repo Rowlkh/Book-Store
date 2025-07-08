@@ -27,4 +27,5 @@ Run the `Bookstore` test class to:
 5. Display updated inventory.
 
 The following is the **expected output** when running the code (a screenshot of this output will be attached):
+![Description of Image](Output.png)
 
