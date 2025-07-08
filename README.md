@@ -18,7 +18,7 @@ A simple Java program simulating an online bookstore as part of the **Fawry N² 
 
 ## Usage
 
-Run the `Bookstore` test class to:
+Run to:
 
 1. Add books.
 2. Display inventory.
@@ -26,6 +26,9 @@ Run the `Bookstore` test class to:
 4. Remove old books.
 5. Display updated inventory.
 
-The following is the **expected output** when running the code (a screenshot of this output will be attached):
-![Description of Image](Output.png)
+## Output
+
+<p align="center">
+  <img src="Output.png" alt="Program Output Screenshot">
+</p>
 
